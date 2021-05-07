@@ -1,0 +1,41 @@
+.App .heading {
+    padding: 2.5rem 0;
+    text-align: center;
+}
+select {
+    position: absolute;
+    top: 22%;
+    right: 20%;
+    font-size: .90rem;
+
+}
+.App .flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+
+}
+.display {
+    margin: 1rem 2rem 1rem 1rem;
+    text-align: center;
+    transition: all .2s ease-in-out; 
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: .1rem;
+    width: 150px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: inset -1px 3px 8px 5px #6fa5e2, 2px 5px 16px 0px #4c5f74, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.display p {
+    font-size: 1rem;
+}
+.display:hover {
+    transform: scale(1.1);
+}
