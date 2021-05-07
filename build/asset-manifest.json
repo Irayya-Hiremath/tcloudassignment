@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tcloudassignment/static/css/main.7aed97a1.chunk.css",
+    "main.js": "/tcloudassignment/static/js/main.2d812323.chunk.js",
+    "main.js.map": "/tcloudassignment/static/js/main.2d812323.chunk.js.map",
+    "runtime-main.js": "/tcloudassignment/static/js/runtime-main.da42e703.js",
+    "runtime-main.js.map": "/tcloudassignment/static/js/runtime-main.da42e703.js.map",
+    "static/js/2.189db9df.chunk.js": "/tcloudassignment/static/js/2.189db9df.chunk.js",
+    "static/js/2.189db9df.chunk.js.map": "/tcloudassignment/static/js/2.189db9df.chunk.js.map",
+    "index.html": "/tcloudassignment/index.html",
+    "static/css/main.7aed97a1.chunk.css.map": "/tcloudassignment/static/css/main.7aed97a1.chunk.css.map",
+    "static/js/2.189db9df.chunk.js.LICENSE.txt": "/tcloudassignment/static/js/2.189db9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da42e703.js",
+    "static/js/2.189db9df.chunk.js",
+    "static/css/main.7aed97a1.chunk.css",
+    "static/js/main.2d812323.chunk.js"
+  ]
+}
